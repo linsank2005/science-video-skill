@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+videos/
+out/
+tmp/
+*.mp3
+*.mp4
+*.wav
+*.pem
+*.key

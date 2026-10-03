@@ -1,0 +1,14 @@
+{
+  "name": "pdoomvideo",
+  "version": "1.0.0",
+  "scripts": {
+    "video": "node scripts/video.mjs"
+  },
+  "license": "ISC",
+  "description": "Portable MP3 narration runtime based on JohnHeibel/PDoomVideo",
+  "dependencies": {
+    "p5": "^2.3.3",
+    "p5.brush": "^2.2.3",
+    "puppeteer-core": "^25.11.0"
+  }
+}

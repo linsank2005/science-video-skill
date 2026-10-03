@@ -1,0 +1,2 @@
+# Optional local speech recognition. No OpenAI API key is used.
+faster-whisper==1.2.1

@@ -1,0 +1,4 @@
+interface:
+  display_name: "MP3 科普动画制作"
+  short_description: "用现成 MP3 旁白制作水彩科普动画，交付成片、字幕与可编辑源码"
+  default_prompt: "使用 $science-video，将我提供的 MP3 旁白制作成科普动画，并交付成片、独立字幕、分镜与可编辑源码。"
